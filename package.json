@@ -1,6 +1,6 @@
 {
   "name": "@ez-flow-studio/date-translate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A librarie to translate webflow dates.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
